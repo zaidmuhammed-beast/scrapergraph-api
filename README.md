@@ -1,4 +1,4 @@
-# scrapegraph
+# scrapergraph-api
 
 A ready-to-run setup of [ScrapeGraphAI](https://github.com/ScrapeGraphAI/Scrapegraph-ai):
 point it at a URL, say in plain English what you want, and get JSON back.
