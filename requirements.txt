@@ -1,0 +1,7 @@
+scrapegraphai==1.76.0
+# scrapegraphai imports ChatOllama from langchain_community, which 0.4.2 removed.
+langchain-community==0.4.1
+# Provider SDKs — keep the one(s) you use.
+langchain-anthropic
+langchain-openai
+python-dotenv
