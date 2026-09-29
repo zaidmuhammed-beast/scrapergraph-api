@@ -5,3 +5,6 @@ langchain-community==0.4.1
 langchain-anthropic
 langchain-openai
 python-dotenv
+# HTTP API (app.py)
+fastapi
+uvicorn[standard]
